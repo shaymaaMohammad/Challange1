@@ -1,0 +1,17 @@
+:root {
+  --font-primary: ui-sans-serif, system-ui, sans-serif;
+  --radius:50%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-primary);
+
+}
+
+
